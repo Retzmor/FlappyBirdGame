@@ -1,0 +1,51 @@
+# Archivos de Unity generados automáticamente
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+
+# Archivos de Visual Studio
+.vs/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Archivos de JetBrains Rider
+[Aa]ssets/Plugins/Editor/JetBrains*
+
+# Cache de Gradle
+.gradle/
+
+# Archivos generados por Crashlytics
+crashlytics-build.properties
+
+# Paquetes de Unity
+*.unitypackage
+
+# Dirección de compilación de Addressables
+/[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.bin*
+
+# Archivos temporales de Android
+/[Aa]ssets/[Ss]treamingAssets/aa.meta
+/[Aa]ssets/[Ss]treamingAssets/aa/*
+
+# Archivos de builds
+*.apk
+*.aab
+*.app
