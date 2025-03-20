@@ -1,5 +1,5 @@
 # FlappyBirdGame
 
-![JuegoFlappyBird](imagenes/FlappyBird.png)
-![MenuJuegoFlappyBird](imagenes/FlappyBirdMenu.png)
-![MenuPausaFlappyBird](imagenes/FlappyBirdPausa.png)
+![JuegoFlappyBird](Imagenes/FlappyBird.png)
+![MenuJuegoFlappyBird](Imagenes/FlappyBirdMenu.png)
+![MenuPausaFlappyBird](Imagenes/FlappyBirdPausa.png)
